@@ -26,7 +26,7 @@
       <file leaf-file-name="gallery.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/gallery.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="10" selection-start="3631" selection-end="3631" vertical-scroll-proportion="0.715311" vertical-offset="650" max-vertical-offset="1972">
+            <state line="109" column="0" selection-start="4092" selection-end="4092" vertical-scroll-proportion="0.9051037" vertical-offset="718" max-vertical-offset="1972">
               <folding />
             </state>
           </provider>
@@ -260,6 +260,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gallery\public" />
       <recent name="C:\xampp\htdocs\gallery\public\css" />
     </key>
   </component>
@@ -306,7 +307,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1892" height="1410" extended-state="0" />
+    <frame x="0" y="0" width="1892" height="1410" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -523,7 +524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/gallery.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="10" selection-start="3631" selection-end="3631" vertical-scroll-proportion="0.715311" vertical-offset="650" max-vertical-offset="1972">
+        <state line="109" column="0" selection-start="4092" selection-end="4092" vertical-scroll-proportion="0.9051037" vertical-offset="718" max-vertical-offset="1972">
           <folding />
         </state>
       </provider>
