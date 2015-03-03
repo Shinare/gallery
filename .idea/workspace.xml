@@ -32,37 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GalleryController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="2" selection-start="325" selection-end="325" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WelcomeController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="31" selection-start="762" selection-end="762" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="5" selection-start="615" selection-end="615" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="24" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+            <state line="22" column="7" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
               <folding />
             </state>
           </provider>
@@ -71,7 +44,7 @@
       <file leaf-file-name="welcome.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="31" selection-start="627" selection-end="627" vertical-scroll-proportion="0.52870816" vertical-offset="0" max-vertical-offset="1254">
+            <state line="19" column="36" selection-start="402" selection-end="402" vertical-scroll-proportion="0.25757575" vertical-offset="0" max-vertical-offset="1254">
               <folding />
             </state>
           </provider>
@@ -525,6 +498,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="2" selection-start="325" selection-end="325" vertical-scroll-proportion="0.24918567" vertical-offset="0" max-vertical-offset="1228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="615" selection-end="615" vertical-scroll-proportion="0.3184039" vertical-offset="0" max-vertical-offset="1228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="7" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="31" selection-start="762" selection-end="762" vertical-scroll-proportion="0.44299674" vertical-offset="0" max-vertical-offset="1228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/gallery.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="57" selection-start="2090" selection-end="2090" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1972">
@@ -532,37 +533,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="5" selection-start="615" selection-end="615" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="2" selection-start="325" selection-end="325" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="31" selection-start="762" selection-end="762" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="31" selection-start="627" selection-end="627" vertical-scroll-proportion="0.52870816" vertical-offset="0" max-vertical-offset="1254">
+        <state line="19" column="36" selection-start="402" selection-end="402" vertical-scroll-proportion="0.25757575" vertical-offset="0" max-vertical-offset="1254">
           <folding />
         </state>
       </provider>

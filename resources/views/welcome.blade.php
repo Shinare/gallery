@@ -10,15 +10,14 @@
 				width: 100%;
 				height: 100%;
 				color: #B0BEC5;
-
-				font-weight: 100;
-				font-family: 'Lato';
 			}
 
 			.container {
 				text-align: center;
 				display: table-cell;
 				vertical-align: middle;
+                font-weight: 100;
+                font-family: 'Lato';
 			}
 
 			.content {
