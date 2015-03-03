@@ -1,7 +1,62 @@
-<div id="cp_widget_b1801fa7-fb6e-455c-b98d-d85afeb35f6d">...</div><script type="text/javascript">
-var cpo = []; cpo["_object"] ="cp_widget_b1801fa7-fb6e-455c-b98d-d85afeb35f6d"; cpo["_fid"] = "A4LADX8gWCjY";
-var _cpmp = _cpmp || []; _cpmp.push(cpo);
-(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
-    cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
-    var c = document.getElementsByTagName("script")[0];
-    c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a href='http://www.cincopa.com/video-hosting'>Video Hosting for Business</a> solution.<span>Second Year</span><span>flash</span><span> 16</span><span>cameramake</span><span> HTC</span><span>height</span><span> 2688</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 1:04:21 AM</span><span>width</span><span> 1520</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 16</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1520</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 1:24:40 AM</span><span>width</span><span> 2688</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 24</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1520</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 2:13:34 AM</span><span>width</span><span> 2688</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 24</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1520</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 2:26:43 AM</span><span>width</span><span> 2688</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 32</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1440</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 2:27:20 AM</span><span>width</span><span> 2560</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 32</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1440</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 2:27:25 AM</span><span>width</span><span> 2560</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 32</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1440</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 2:27:34 AM</span><span>width</span><span> 2560</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 24</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1520</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 2:31:50 AM</span><span>width</span><span> 2688</span><span>cameramodel</span><span> HTC One_M8</span><span>bitrate</span><span> 12563 kb/s</span><span>height</span><span> 720</span><span>duration</span><span> 00:00:07.51</span><span>fps</span><span> SAR</span><span>width</span><span> 1280</span><span>originaldate</span><span> 2015-02-27 20:39:05</span><span>bitrate</span><span> 12473 kb/s</span><span>height</span><span> 720</span><span>duration</span><span> 00:00:10.84</span><span>fps</span><span> SAR</span><span>width</span><span> 1280</span><span>originaldate</span><span> 2015-02-27 20:43:23</span><span>bitrate</span><span> 12708 kb/s</span><span>height</span><span> 720</span><span>duration</span><span> 00:00:08.70</span><span>fps</span><span> SAR</span><span>width</span><span> 1280</span><span>originaldate</span><span> 2015-02-27 21:03:51</span><span>bitrate</span><span> 13255 kb/s</span><span>height</span><span> 720</span><span>duration</span><span> 00:00:03.93</span><span>fps</span><span> SAR</span><span>width</span><span> 1280</span><span>originaldate</span><span> 2015-02-27 21:04:40</span><span>flash</span><span> 32</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1440</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 3:05:39 AM</span><span>width</span><span> 2560</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 32</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1440</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 3:05:48 AM</span><span>width</span><span> 2560</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 32</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1440</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 3:05:56 AM</span><span>width</span><span> 2560</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 16</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1520</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 3:34:19 AM</span><span>width</span><span> 2688</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 16</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1520</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 3:34:20 AM</span><span>width</span><span> 2688</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 16</span><span>cameramake</span><span> HTC</span><span>height</span><span> 1520</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 3:38:13 AM</span><span>width</span><span> 2688</span><span>cameramodel</span><span> HTC One_M8</span><span>bitrate</span><span> 12034 kb/s</span><span>height</span><span> 1280</span><span>duration</span><span> 00:00:41.05</span><span>fps</span><span> SAR</span><span>width</span><span> 720</span><span>originaldate</span><span> 2015-02-27 21:40:59</span><span>rotate</span><span> 90</span><span>bitrate</span><span> 12107 kb/s</span><span>height</span><span> 1280</span><span>duration</span><span> 00:00:23.30</span><span>fps</span><span> SAR</span><span>width</span><span> 720</span><span>originaldate</span><span> 2015-02-27 21:41:20</span><span>rotate</span><span> 90</span><span>bitrate</span><span> 12206 kb/s</span><span>height</span><span> 1280</span><span>duration</span><span> 00:00:18.43</span><span>fps</span><span> SAR</span><span>width</span><span> 720</span><span>originaldate</span><span> 2015-02-27 21:41:36</span><span>rotate</span><span> 90</span><span>flash</span><span> 16</span><span>cameramake</span><span> HTC</span><span>height</span><span> 2688</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 3:49:01 AM</span><span>width</span><span> 1520</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 32</span><span>cameramake</span><span> HTC</span><span>height</span><span> 2560</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 3:49:13 AM</span><span>width</span><span> 1440</span><span>cameramodel</span><span> HTC One_M8</span><span>flash</span><span> 24</span><span>cameramake</span><span> HTC</span><span>height</span><span> 2688</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> 3.4.0-g6af28ec</span><span>originaldate</span><span> 2/28/2015 8:45:57 AM</span><span>width</span><span> 1520</span><span>cameramodel</span><span> HTC One_M8</span></noscript>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Laravel</title>
+
+    <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Laravel</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="{{ url('/') }}">Home</a></li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                @if (Auth::guest())
+                    <li><a href="{{ url('/auth/login') }}">Login</a></li>
+                    <li><a href="{{ url('/auth/register') }}">Register</a></li>
+                @else
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">{{ Auth::user()->name }} <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="{{ url('/auth/logout') }}">Logout</a></li>
+                        </ul>
+                    </li>
+                @endif
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+        @yield('content')
+
+    <!-- Scripts -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
