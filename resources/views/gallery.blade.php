@@ -6,11 +6,10 @@
 @endsection
 
 @section('content')
-
     <h1>Herro</h1>
 @endsection
 
-@sectin('script')
+@section('script')
     <script src="{{ asset('js/photoswipe.min.css') }}"></script>
     <script src="{{ asset('js/photoswipe-ui-default.min.css') }}"></script>
 @endsection
