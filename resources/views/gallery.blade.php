@@ -13,7 +13,7 @@
         <div class="my-simple-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--59.jpg" itemprop="contentUrl" data-size="1024x1024">
+                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--59.jpg" itemprop="contentUrl" data-size="4223x2815">
                     <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--59.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption  1</figcaption>
@@ -21,21 +21,21 @@
             </figure>
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--62.jpg" itemprop="contentUrl" data-size="964x1024">
+                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--62.jpg" itemprop="contentUrl" data-size="4095x2730">
                     <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--62.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 2</figcaption>
             </figure>
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/_MG_0102.jpg" itemprop="contentUrl" data-size="1024x683">
+                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/_MG_0102.jpg" itemprop="contentUrl" data-size="5616x3744">
                     <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/_MG_0102.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 3</figcaption>
             </figure>
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/_MG_0339.jpg" itemprop="contentUrl" data-size="1024x768">
+                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/_MG_0339.jpg" itemprop="contentUrl" data-size="5616x3744">
                     <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/_MG_0339.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 4</figcaption>
