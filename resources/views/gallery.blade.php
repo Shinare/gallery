@@ -1,5 +1,14 @@
 @extends('app')
-
+/*TODO: Multiple see bellow
+Implement height based auto scaling
+Possibly add transitions to pc version
+Add a database connection
+Work out auth registaration emails etc
+Add method to upload to amazon
+Add a playlist option, play button etc
+Thumbnails down the bottom (docked as before?)
+Website layout and design
+*/
 @section('head')
     <link rel="stylesheet" href="{{ asset('css/photoswipe.css') }}">
     <link rel="stylesheet" href="{{ asset('css/default-skin.css') }}">
