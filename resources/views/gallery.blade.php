@@ -59,14 +59,14 @@
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_b.jpg" itemprop="contentUrl" data-size="1024x683">
-                    <img src="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_m.jpg" itemprop="thumbnail" alt="Image description" />
+                    <img src="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_m.jpg" itemprop="thumbnail" class="img-thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 2.2</figcaption>
             </figure>
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_b.jpg" itemprop="contentUrl" data-size="1024x768">
-                    <img src="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_m.jpg" itemprop="thumbnail" alt="Image description" />
+                    <img src="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_m.jpg" itemprop="thumbnail" class="img-thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 2.3</figcaption>
             </figure>
