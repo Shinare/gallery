@@ -14,7 +14,7 @@
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--59.jpg" itemprop="contentUrl" data-size="4223x2815">
-                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--59.jpg" itemprop="thumbnail" class="img-thumbnail" alt="Image description" />
+                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--59.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption  1</figcaption>
 
@@ -22,21 +22,21 @@
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--62.jpg" itemprop="contentUrl" data-size="4095x2730">
-                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--62.jpg" itemprop="thumbnail" class="img-thumbnail" alt="Image description" />
+                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--62.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 2</figcaption>
             </figure>
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/_MG_0102.jpg" itemprop="contentUrl" data-size="5616x3744">
-                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/_MG_0102.jpg" itemprop="thumbnail" class="img-thumbnail" alt="Image description" />
+                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/_MG_0102.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 3</figcaption>
             </figure>
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/_MG_0339.jpg" itemprop="contentUrl" data-size="5616x3744">
-                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/_MG_0339.jpg" itemprop="thumbnail" class="img-thumbnail" alt="Image description" />
+                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/_MG_0339.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 4</figcaption>
             </figure>
@@ -52,21 +52,21 @@
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://farm2.staticflickr.com/1043/5186867718_06b2e9e551_b.jpg" itemprop="contentUrl" data-size="964x1024">
-                    <img src="https://farm2.staticflickr.com/1043/5186867718_06b2e9e551_m.jpg" itemprop="thumbnail" class="img-thumbnail"alt="Image description" />
+                    <img src="https://farm2.staticflickr.com/1043/5186867718_06b2e9e551_m.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 2.1</figcaption>
             </figure>
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_b.jpg" itemprop="contentUrl" data-size="1024x683">
-                    <img src="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_m.jpg" itemprop="thumbnail" class="img-thumbnail" alt="Image description" />
+                    <img src="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_m.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 2.2</figcaption>
             </figure>
 
             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_b.jpg" itemprop="contentUrl" data-size="1024x768">
-                    <img src="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_m.jpg" itemprop="thumbnail" class="img-thumbnail" alt="Image description" />
+                    <img src="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_m.jpg" itemprop="thumbnail" alt="Image description" />
                 </a>
                 <figcaption itemprop="caption description">Image caption 2.3</figcaption>
             </figure>
