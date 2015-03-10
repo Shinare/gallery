@@ -32,7 +32,7 @@ class WelcomeController extends Controller {
 	{
 		return view('welcome');
 	}
-    
+
     public function teamspeak()
     {
         return view('welcome');
