@@ -35,7 +35,6 @@ class WelcomeController extends Controller {
 
     public function teamspeak()
     {
-        return view('welcome');
         system('./home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start');
     }
 
