@@ -8,6 +8,7 @@ Add method to upload to amazon
 Add a playlist option, play button etc
 Thumbnails down the bottom (docked as before?)
 Website layout and design
+Management system
 -->
 @section('head')
     <link rel="stylesheet" href="{{ asset('css/photoswipe.css') }}">
