@@ -35,8 +35,8 @@ class WelcomeController extends Controller {
 
     public function teamspeak()
     {
-        $cmd = '/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/./ts3server_startscript.sh start';
-        exec($cmd, $output, $exitCode);
+        $cmd = '/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start';
+        shell_exec($cmd, $output, $exitCode);
         if ($exitCode != 0) {
             trigger_error("Command \"$cmd\" failed with exit code $exitCode:".
                 join("\n", $output), E_USER_ERROR);
