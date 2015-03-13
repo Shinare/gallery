@@ -42,6 +42,6 @@
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
             <a>Click me</a>
-            <pre>{{ echo: $output }}</pre>
+            <pre><?php echo $output ?></pre>
 		</div>
 @endsection
