@@ -41,7 +41,8 @@ class WelcomeController extends Controller {
             trigger_error("Command \"$cmd\" failed with exit cololde $exitCode:".
                 join("\n", $output), E_USER_ERROR);
         }*/
-        shell_exec('/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start');
+        $output = shell_exec('/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start');
+        return view('welcome', $output);
     }
 
 }

@@ -42,5 +42,6 @@
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
             <a>Click me</a>
+            <pre>$output</pre>
 		</div>
 @endsection
