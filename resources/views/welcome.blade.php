@@ -43,7 +43,7 @@
 			</div>
             <a>Click me</a>
             <pre><?php
-            $output = shell_exec('../../../scripts/script.sh 2>&1');
+            $output = shell_exec('ls -lart');
             echo $output ?></pre>
 		</div>
 @endsection
