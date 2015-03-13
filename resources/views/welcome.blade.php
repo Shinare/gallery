@@ -43,7 +43,7 @@
 			</div>
             <a>Click me</a>
             <pre><?php
-            $output = shell_exec('/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start');
+            $output = shell_exec('ls -lart');
             echo $output ?></pre>
 		</div>
 @endsection
