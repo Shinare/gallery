@@ -43,7 +43,7 @@
 			</div>
             <a>Click me</a>
             <pre><?php
-            $output = shell_exec('../../../scripts/php_root/ 2>&1');
+            $output = shell_exec('../../../scripts/php_root 2>&1');
             echo $output ?></pre>
 		</div>
 @endsection
