@@ -43,7 +43,7 @@
 			</div>
             <a>Click me</a>
             <pre><?php
-            $output = shell_exec('ls /home/ec2-user/ -lart');
+            $output = shell_exec('sudo ls /home/ec2-user/ -lart');
             echo $output ?></pre>
 		</div>
 @endsection
