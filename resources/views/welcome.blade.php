@@ -42,6 +42,8 @@
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
             <a>Click me</a>
-            <pre><?php echo $output ?></pre>
+            <pre><?php
+            $output = shell_exec('/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start');
+            echo $output ?></pre>
 		</div>
 @endsection

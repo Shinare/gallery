@@ -62,7 +62,7 @@
       <file leaf-file-name="welcome.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="27" selection-start="806" selection-end="806" vertical-scroll-proportion="0.5820064" vertical-offset="0" max-vertical-offset="1256">
+            <state line="46" column="33" selection-start="986" selection-end="986" vertical-scroll-proportion="0.62261146" vertical-offset="0" max-vertical-offset="1256">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
       <file leaf-file-name="WelcomeController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="45" selection-start="1291" selection-end="1291" vertical-scroll-proportion="-28.76923" vertical-offset="0" max-vertical-offset="918">
+            <state line="43" column="122" selection-start="1249" selection-end="1249" vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -688,6 +688,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="63" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="374">
@@ -697,21 +704,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="45" selection-start="1291" selection-end="1291" vertical-scroll-proportion="-28.76923" vertical-offset="0" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="63" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="1292">
+        <state line="43" column="122" selection-start="1249" selection-end="1249" vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="27" selection-start="806" selection-end="806" vertical-scroll-proportion="0.5820064" vertical-offset="0" max-vertical-offset="1256">
+        <state line="46" column="33" selection-start="986" selection-end="986" vertical-scroll-proportion="0.62261146" vertical-offset="0" max-vertical-offset="1256">
           <folding />
         </state>
       </provider>
