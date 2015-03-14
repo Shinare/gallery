@@ -13,7 +13,10 @@
 
 Route::get('/', 'WelcomeController@index');
 
-Route::get('/ts','WelcomeController@teamspeak');
+Route::get('/ts',[
+    'as'=>'ts',
+    'uses'=>'WelcomeController@teamspeak',
+]);
 
 Route::get('/gallery','GalleryController@index');
 
