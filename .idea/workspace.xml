@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ts.blade.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ts.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/ts.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="18" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+            <state line="42" column="18" selection-start="769" selection-end="769" vertical-scroll-proportion="0.569378" vertical-offset="0" max-vertical-offset="1254">
               <folding />
             </state>
           </provider>
@@ -77,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WelcomeController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="WelcomeController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="26" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.67833877" vertical-offset="0" max-vertical-offset="1228">
+            <state line="35" column="5" selection-start="795" selection-end="795" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="1037">
               <folding />
             </state>
           </provider>
@@ -113,8 +113,8 @@
         <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/resources/views/ts.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" />
+        <option value="$PROJECT_DIR$/resources/views/ts.blade.php" />
       </list>
     </option>
   </component>
@@ -706,6 +706,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="5" selection-start="795" selection-end="795" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="50" column="63" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="1292">
@@ -715,14 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/ts.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="18" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="26" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.67833877" vertical-offset="0" max-vertical-offset="1228">
+        <state line="42" column="18" selection-start="769" selection-end="769" vertical-scroll-proportion="0.569378" vertical-offset="0" max-vertical-offset="1254">
           <folding />
         </state>
       </provider>
