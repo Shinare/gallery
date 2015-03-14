@@ -45,11 +45,10 @@
             <pre><?php
             echo $output; ?></pre>
             <form action="{{ URL::route('ts') }}" method="get" class="form-signin">
-
-            <input type="submit" name="command" value="Status" class="btn btn-lg btn-primary btn-block">
+                <input type="submit" name="command" value="Status" class="btn btn-lg btn-primary btn-block">
                 <input type="submit" name="command" value="Start" class="btn btn-lg btn-success btn-block">
-                    <input type="submit" name="command" value="Restart" class="btn btn-lg btn-warning btn-block">
-                        <input type="submit" name="command" value="Stop" class="btn btn-lg btn-danger btn-block">
+                <input type="submit" name="command" value="Restart" class="btn btn-lg btn-warning btn-block">
+                <input type="submit" name="command" value="Stop" class="btn btn-lg btn-danger btn-block">
             </form>
 		</div>
 @endsection
