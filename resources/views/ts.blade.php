@@ -40,8 +40,7 @@
 			<div class="content">
 				<div class="title">Team Speak</div>
 				<div class="quote">Controll panel</div>
-			</div>
-            <a>Click me</a>
+			</div><br>
             <pre><?php
             echo $output; ?></pre>
             <form action="{{ URL::route('ts') }}" method="get" class="form-signin">
