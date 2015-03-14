@@ -45,7 +45,10 @@
             <pre><?php
             echo $output; ?></pre>
             <form action="{{ URL::route('ts') }}" method="get" class="form-signin">
-            <button type="submit" value="Start" class="btn btn-lg btn-primary btn-block">start</button>
+    <div class="field">
+    <input type="text" name="username" class="form-control" placeholder="Username">
+        </div>
+            <input type="submit" value="Start" class="btn btn-lg btn-primary btn-block">
             </form>
 		</div>
 @endsection
