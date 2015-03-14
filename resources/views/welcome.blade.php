@@ -43,7 +43,6 @@
 			</div>
             <a>Click me</a>
             <pre><?php
-            $output = shell_exec('../../../scripts/ts_status 2>&1');
             echo $output; ?></pre>
 		</div>
 @endsection
