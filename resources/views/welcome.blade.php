@@ -42,8 +42,8 @@
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
             <a>Click me</a>
-            <pre><?php
+            <pre>{{
             $output = shell_exec('../../../scripts/ts_status 2>&1');
-            echo $output ?></pre>
+            echo $output }}</pre>
 		</div>
 @endsection
