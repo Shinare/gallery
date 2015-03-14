@@ -45,8 +45,8 @@
             <pre><?php
             echo $output; ?></pre>
             <form action="{{ URL::route('ts') }}" method="get" class="form-signin">
-            <input type="hidden" name="command" value="status">
-            <input type="submit" value="Start" class="btn btn-lg btn-primary btn-block">
+
+            <input type="submit" name="command" value="Start" class="btn btn-lg btn-primary btn-block">
             </form>
 		</div>
 @endsection

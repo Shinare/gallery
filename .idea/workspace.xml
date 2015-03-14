@@ -62,7 +62,7 @@
       <file leaf-file-name="ts.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/ts.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="61" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.6371611" vertical-offset="0" max-vertical-offset="1254">
+            <state line="47" column="0" selection-start="949" selection-end="949" vertical-scroll-proportion="0.6371611" vertical-offset="0" max-vertical-offset="1254">
               <folding />
             </state>
           </provider>
@@ -722,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/ts.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="61" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.6371611" vertical-offset="0" max-vertical-offset="1254">
+        <state line="47" column="0" selection-start="949" selection-end="949" vertical-scroll-proportion="0.6371611" vertical-offset="0" max-vertical-offset="1254">
           <folding />
         </state>
       </provider>
