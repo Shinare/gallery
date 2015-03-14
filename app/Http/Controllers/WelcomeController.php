@@ -45,7 +45,7 @@ class WelcomeController extends Controller {
         }*/
         /*$output = shell_exec('/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start');*/
         $command = $request->input('command');
-        $output = shell_exec('../../../scripts/ts_'+$command+' 2>&1');
+        $output = shell_exec('../../../scripts/ts_'.$command.' 2>&1');
         return view('ts')->with('output',$output);
     }
 

@@ -80,7 +80,7 @@
       <file leaf-file-name="WelcomeController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="28" selection-start="67" selection-end="67" vertical-scroll-proportion="0.027687296" vertical-offset="0" max-vertical-offset="1228">
+            <state line="47" column="61" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.65065145" vertical-offset="0" max-vertical-offset="1228">
               <folding />
             </state>
           </provider>
@@ -722,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="67" selection-end="67" vertical-scroll-proportion="0.027687296" vertical-offset="0" max-vertical-offset="1228">
+        <state line="47" column="61" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.65065145" vertical-offset="0" max-vertical-offset="1228">
           <folding />
         </state>
       </provider>
