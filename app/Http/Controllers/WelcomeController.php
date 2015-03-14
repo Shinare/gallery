@@ -47,7 +47,7 @@ class WelcomeController extends Controller {
 
         $command = $request->input('command');
         if($command=="")
-            {$command = "status";}
+            {$command = "Status";}
         $output = shell_exec('../../../scripts/ts_'.$command.' 2>&1');
         return view('ts')->with('output',$output);
     }
