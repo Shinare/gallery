@@ -44,5 +44,8 @@
             <a>Click me</a>
             <pre><?php
             echo $output; ?></pre>
+            <form action="{{ URL::route('ts') }}" method="get" class="form-signin">
+            <input type="submit" value="Start" class="btn btn-lg btn-primary btn-block">
+            </form>
 		</div>
 @endsection
