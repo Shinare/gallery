@@ -36,7 +36,7 @@ class WelcomeController extends Controller {
 		return view('welcome');
 	}
 
-    public function teamspeak()
+    public function teamspeak(Request $request)
     {
         /*$cmd = '/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start';
         exec($cmd, $output, $exitCode);
@@ -45,7 +45,7 @@ class WelcomeController extends Controller {
                 join("\n", $output), E_USER_ERROR);
         }*/
         /*$output = shell_exec('/home/ec2-user/teamspeak/teamspeak3-server_linux-amd64/ts3server_startscript.sh start');*/
-        $command = Request::input('command');
+        $command = $request->input('command');
         $output = shell_exec('../../../scripts/ts_'+$command+' 2>&1');
         return view('ts')->with('output',$output);
     }
