@@ -13,10 +13,7 @@
 
 Route::get('/', 'WelcomeController@index');
 
-Route::get('/ts',[
-    'as'=>'ts',
-    'uses'=>'WelcomeController@teamspeak',
-]);
+
 
 Route::get('/gallery','GalleryController@index');
 
@@ -26,3 +23,11 @@ Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
 ]);
+
+
+Route::group(['middleware'=>'auth'],function(){
+    Route::get('/ts',[
+        'as'=>'ts',
+        'uses'=>'WelcomeController@teamspeak',
+    ]);
+});

@@ -68,19 +68,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WelcomeController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="WelcomeController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="40" selection-start="556" selection-end="556" vertical-scroll-proportion="-6.9615383" vertical-offset="125" max-vertical-offset="1037">
+            <state line="34" column="31" selection-start="792" selection-end="792" vertical-scroll-proportion="0.60722345" vertical-offset="40" max-vertical-offset="1037">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="586" selection-end="586" vertical-scroll-proportion="0.24943566" vertical-offset="0" max-vertical-offset="886">
+            <state line="31" column="7" selection-start="786" selection-end="786" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
@@ -89,7 +89,7 @@
       <file leaf-file-name="HomeController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="-22.23077" vertical-offset="0" max-vertical-offset="714">
+            <state line="20" column="0" selection-start="550" selection-end="615" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -119,11 +119,11 @@
         <option value="$PROJECT_DIR$/public/css/gallery.css" />
         <option value="$PROJECT_DIR$/resources/views/gallery.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" />
         <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/ts.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" />
       </list>
     </option>
   </component>
@@ -776,20 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="40" selection-start="556" selection-end="556" vertical-scroll-proportion="-6.9615383" vertical-offset="125" max-vertical-offset="1037">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="-22.23077" vertical-offset="0" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
@@ -799,7 +785,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="586" selection-end="586" vertical-scroll-proportion="0.24943566" vertical-offset="0" max-vertical-offset="886">
+        <state line="31" column="7" selection-start="786" selection-end="786" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="550" selection-end="615" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="31" selection-start="792" selection-end="792" vertical-scroll-proportion="0.60722345" vertical-offset="40" max-vertical-offset="1037">
           <folding />
         </state>
       </provider>
