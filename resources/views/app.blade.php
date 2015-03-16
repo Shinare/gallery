@@ -38,9 +38,9 @@
 				<ul class="nav navbar-nav">
 					<li><a href="{{ url('/') }}">Home</a></li>
                     <li><a href="{{ url('/gallery') }}">Gallery</a></li>
-                    @ifnot (Auth::guest())
+                    @if (Auth::check())
                         <li><a href="{{ url('/ts') }}">Team Speak</a></li>
-                    @endifnot
+                    @endif
 				</ul>
 
 				<ul class="nav navbar-nav navbar-right">
