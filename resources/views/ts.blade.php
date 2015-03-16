@@ -17,7 +17,12 @@
 
 			.quote {
 				font-size: 24px;
+                margin-bottom: 10px;
 			}
+            .form-signin{
+                max-width: 330px;
+            }
+        }
 		</style>
 @endsection
 @section('content')
