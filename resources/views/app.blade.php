@@ -38,7 +38,9 @@
 				<ul class="nav navbar-nav">
 					<li><a href="{{ url('/') }}">Home</a></li>
                     <li><a href="{{ url('/gallery') }}">Gallery</a></li>
-                    <li><a href="{{ url('/ts') }}">Team Speak</a></li>
+                    @if (Auth::auth())
+                        <li><a href="{{ url('/ts') }}">Team Speak</a></li>
+                    @endif
 				</ul>
 
 				<ul class="nav navbar-nav navbar-right">
