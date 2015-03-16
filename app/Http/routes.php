@@ -28,6 +28,6 @@ Route::controllers([
 Route::group(['middleware'=>'auth'],function(){
     Route::get('/ts',[
         'as'=>'ts',
-        'uses'=>'WelcomeController@teamspeak',
+        'uses'=>'TsController@teamspeak',
     ]);
 });
