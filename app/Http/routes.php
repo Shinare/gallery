@@ -20,7 +20,7 @@ Route::get('/ts',[
 
 Route::get('/gallery','GalleryController@index');
 
-Route::get('home', 'HomeController@index');
+Route::get('/home', 'HomeController@index');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',

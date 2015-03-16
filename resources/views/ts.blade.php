@@ -41,8 +41,7 @@
 				<div class="title">Team Speak</div>
 				<div class="quote">Controll panel</div>
 			</div><br>
-            <pre>{{
-            $output }}</pre>
+            <pre>{{$output}}</pre>
             <form action="{{ url('ts') }}" method="get" class="form-signin">
                 <input type="submit" name="command" value="Status" class="btn btn-lg btn-primary btn-block">
                 <input type="submit" name="command" value="Start" class="btn btn-lg btn-success btn-block">
