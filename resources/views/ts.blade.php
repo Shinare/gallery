@@ -33,12 +33,14 @@
             <div class="quote">Controll panel</div>
 
             <pre>{{$output}}</pre>
-            <form action="{{ url('ts') }}" method="get" class="form-signin col-md">
+            <div class="col-md-2"></div>
+            <form action="{{ url('ts') }}" method="get" class="form-signin col-md-8">
                 <input type="submit" name="command" value="Status" class="btn btn-lg btn-primary btn-block">
                 <input type="submit" name="command" value="Start" class="btn btn-lg btn-success btn-block">
                 <input type="submit" name="command" value="Restart" class="btn btn-lg btn-warning btn-block">
                 <input type="submit" name="command" value="Stop" class="btn btn-lg btn-danger btn-block">
             </form>
+            <div class="col-md-2"></div>
         </div>
     </div>
 </div>
