@@ -38,7 +38,7 @@
 				<ul class="nav navbar-nav">
 					<li><a href="{{ url('/') }}">Home</a></li>
                     <li><a href="{{ url('/gallery') }}">Gallery</a></li>
-                    @if (Auth::auth())
+                    @ifnot (Auth::guest())
                         <li><a href="{{ url('/ts') }}">Team Speak</a></li>
                     @endif
 				</ul>
