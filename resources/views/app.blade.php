@@ -40,7 +40,7 @@
                     <li><a href="{{ url('/gallery') }}">Gallery</a></li>
                     @ifnot (Auth::guest())
                         <li><a href="{{ url('/ts') }}">Team Speak</a></li>
-                    @endif
+                    @endifnot
 				</ul>
 
 				<ul class="nav navbar-nav navbar-right">
