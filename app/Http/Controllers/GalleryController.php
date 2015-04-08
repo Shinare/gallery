@@ -113,7 +113,7 @@ class GalleryController extends Controller {
         //------------------------------------------------------------------------------------------
 
 
-        return view('addPictures');
+        //return view('addPictures');
     }
 
 } 
