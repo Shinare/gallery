@@ -2,7 +2,7 @@
 
 @section('content')
     @if(isset($mover)==true)
-        {{"my name is ".$mover}}
+        {{$mover}}
     @endif
     <form enctype="multipart/form-data" method="post" type="file" action="{{URL('/gallery/add')}}">
         Chose your file:
