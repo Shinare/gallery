@@ -139,7 +139,7 @@ class GalleryController extends Controller {
             unlink($fileTmpLoc);
             exit();
         } else {
-            unlink($fileTmpLoc);
+            //unlink($fileTmpLoc);
             $mover = "The file " . $fileName . " has been uploaded successfully.";
         }
 
