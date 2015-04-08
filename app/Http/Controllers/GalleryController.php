@@ -109,7 +109,7 @@ class GalleryController extends Controller {
             //GDPLUGIN
         //------------------------------------------------------------------------------------------
 
-        $version = "Your GD version is: ".gd_info();
+        $version = gd_info();
         $repopprter = $version["GD Version"];
         //------------------------------------------------------------------------------------------
 
