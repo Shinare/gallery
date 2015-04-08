@@ -111,7 +111,7 @@ class GalleryController extends Controller {
             //GDPLUGIN
         //------------------------------------------------------------------------------------------
         $fileName=$_FILES["uploaded_file"]["name"];
-        $fileTmpLoc=$_FILES["uploaded_file"]["temp_name"];
+        $fileTmpLoc=$_FILES["uploaded_file"]["tmp_name"];
         $fileType=$_FILES["uploaded_file"]["type"];
         $fileSize=$_FILES["uploaded_file"]["size"];
         $fileErrorMsg=$_FILES["uploaded_file"]["error"];
