@@ -8,5 +8,6 @@
         Chose your file:
         <input name="uploaded_file" type="file"><br>
         <input type="submit" value="Upload!">
+        <input type="hidden" name="_token" value="{{csrf_token()}}">
     </form>
 @endsection
