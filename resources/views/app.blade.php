@@ -59,7 +59,7 @@
 			</div>
 		</div>
 	</nav>
-        <p class="alert alert-danger" role="allert">{{$reppporter}}</p>
+        <p class="alert alert-danger" role="allert">{{gd_info()}}</p>
 	@yield('content')
 
 	<!-- Scripts -->
