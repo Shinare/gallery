@@ -129,24 +129,25 @@ class GalleryController extends Controller {
         } else if($fileSize>10000000){
             $mover="File too large 10Mb max";
             unlink($fileTmpLoc);
-            exit();
+            $error=1;
         } else if(!preg_match("/\.(gif|jpg|png)$/i",$fileName)){
             $mover="Image was not a gif,png,jpg.";
             unlink($fileTmpLoc);
-            //exit();
+            $error=1;
         } else if($fileErrorMsg==1){
             $mover="An error occured.";
-            exit();
+            $error=1;
         }
+        if($error!=1){
         $moveResult=move_uploaded_file($fileTmpLoc,"img/".$fileName);
-        if($moveResult!=true){
+        if($moveResult!=true) {
             $mover="Error failed to upload.";
             unlink($fileTmpLoc);
             exit();
         } else {
             //unlink($fileTmpLoc);
             $mover = "The file " . $fileName . " has been uploaded successfully.";
-        }
+        }}
 
 
         //------------------------------------------------------------------------------------------
