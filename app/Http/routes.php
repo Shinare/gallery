@@ -28,4 +28,8 @@ Route::group(['middleware'=>'auth'],function(){
         'as'=>'ts',
         'uses'=>'TsController@teamspeak',
     ]);
+    Route::get('/gallery/add',[
+        'as'=>'gallery-add',
+        'uses'=>'GalleryController@addPictures'
+    ]);
 });
