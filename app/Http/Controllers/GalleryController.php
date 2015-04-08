@@ -108,9 +108,8 @@ class GalleryController extends Controller {
         //------------------------------------------------------------------------------------------
             //GDPLUGIN
         //------------------------------------------------------------------------------------------
-            $gdInfoArray = gd_info();
-            $version = $gdInfoArray["GD Version"];
-        echo "Your GD version is: ".$version;
+
+        echo "Your GD version is: ".gd_info();
         //------------------------------------------------------------------------------------------
 
 
