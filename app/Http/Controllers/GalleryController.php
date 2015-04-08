@@ -122,6 +122,7 @@ class GalleryController extends Controller {
         $fileErrorMsg=$_FILES["uploaded_file"]["error"];
 
         $mover = "herro im mover";
+        $error=0;
 
         if(!$fileTmpLoc){
             $mover="Please select a file first";
