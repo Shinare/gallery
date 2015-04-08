@@ -59,7 +59,7 @@
 			</div>
 		</div>
 	</nav>
-        <p class="alert alert-danger" role="allert">$reporter</p>
+        <p class="alert alert-danger" role="allert">{{$reporter}}</p>
 	@yield('content')
 
 	<!-- Scripts -->
