@@ -110,7 +110,8 @@ class GalleryController extends Controller {
         //------------------------------------------------------------------------------------------
 
         $version = gd_info();
-        $repopprter = $version["GD Version"];
+        $reporter = $version["GD Version"];
+
         //------------------------------------------------------------------------------------------
 
 
