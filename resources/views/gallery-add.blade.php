@@ -1,7 +1,7 @@
 @extends('app')
 
 @section('content')
-    @if({{$mover!=""}})
+    @if(isset($mover)==true)
         {{"my name is ".$mover}}
     @endif
     <form enctype="multipart/form-data" method="post" type="file" action="{{URL('/gallery/add')}}">
