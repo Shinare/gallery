@@ -133,7 +133,7 @@ class GalleryController extends Controller {
         } else if(!preg_match("/\.(gif|jpg|png)$/i",$fileName)){
             $mover="Image was not a gif,png,jpg.";
             //unlink($fileTmpLoc);
-            //exit();
+            return 0;
         } else if($fileErrorMsg==1){
             $mover="An error occured.";
             exit();
