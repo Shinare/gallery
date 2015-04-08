@@ -126,16 +126,16 @@ class GalleryController extends Controller {
 
         if(!$fileTmpLoc){
             $mover="Please select a file first";
-            exit();
+            $error=1;
         } else if($fileSize>10000000){
             $mover="File too large 10Mb max";
             unlink($fileTmpLoc);
             $error=1;
-        } else if(!preg_match("/\.(gif|jpg|png)$/i",$fileName)){
+        } else if($error!=1 && !preg_match("/\.(gif|jpg|png)$/i",$fileName)){
             $mover="Image was not a gif,png,jpg.";
             unlink($fileTmpLoc);
             $error=1;
-        } else if($fileErrorMsg==1){
+        } else if($error!=1 && $fileErrorMsg==1){
             $mover="An error occured.";
             $error=1;
         }
