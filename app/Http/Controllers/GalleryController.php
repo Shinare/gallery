@@ -20,7 +20,7 @@ class GalleryController extends Controller {
     {
             //THUMBNAILSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             //connection
-            include('connection.php');
+            /*include('connection.php');
             if(isset($_POST['submit']))
             {
                 if(($_POST['titel'])!="")
@@ -103,8 +103,16 @@ class GalleryController extends Controller {
                     }
 
                 }else { echo "Oops! Looks like you forgot to upload the image<br>"; }
-            }
+            }*/
             //ThumbnailsaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        //------------------------------------------------------------------------------------------
+            //GDPLUGIN
+        //------------------------------------------------------------------------------------------
+            $gdInfoArray = gd_info();
+            $version = $gdInfoArray["GD Version"];
+        echo "Your GD version is: ".$version;
+        //------------------------------------------------------------------------------------------
+
 
         return view('addPictures');
     }
