@@ -109,11 +109,11 @@ class GalleryController extends Controller {
             //GDPLUGIN
         //------------------------------------------------------------------------------------------
 
-        echo "Your GD version is: ".gd_info();
+        $reporter = "Your GD version is: ".gd_info();
         //------------------------------------------------------------------------------------------
 
 
-        //return view('addPictures');
+        return view('addPictures');
     }
 
 } 
