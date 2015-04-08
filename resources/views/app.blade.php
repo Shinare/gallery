@@ -59,7 +59,6 @@
 			</div>
 		</div>
 	</nav>
-        <p class="alert alert-danger" role="alert">{{$reporter}}</p>
 	@yield('content')
 
 	<!-- Scripts -->

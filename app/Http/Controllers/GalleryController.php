@@ -111,13 +111,12 @@ class GalleryController extends Controller {
             //GDPLUGIN
         //------------------------------------------------------------------------------------------
 
-        $version = gd_info();
-        $reporter = $version["GD Version"];
+            $mover = "herro im mover";
 
         //------------------------------------------------------------------------------------------
 
 
-        return View("gallery")->with('reporter',$reporter);
+        return View("gallery-add")->with('mover',$mover);
     }
 
 } 
