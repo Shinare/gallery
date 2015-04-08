@@ -127,7 +127,7 @@ class GalleryController extends Controller {
         if($error!=1 && !$fileTmpLoc){
             $mover="Please select a file first";
             $error=1;
-        } else if($error!=1 && $fileSize>2097152){
+        } else if($error!=1 && $fileSize>5242880){//in bytes
             $mover="File too large 10Mb max";
             unlink($fileTmpLoc);
             $error=1;
