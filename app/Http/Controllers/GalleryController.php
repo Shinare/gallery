@@ -9,6 +9,8 @@
 namespace App\Http\Controllers;
 
 
+use Illuminate\Support\Facades\View;
+
 class GalleryController extends Controller {
 
     public function index()
@@ -110,12 +112,12 @@ class GalleryController extends Controller {
         //------------------------------------------------------------------------------------------
 
         $version = gd_info();
-        $reporter = $version;
+        $reporter = $version["GD Version"];
 
         //------------------------------------------------------------------------------------------
 
 
-        return $reporter;
+        return View("galllery")->with('reporter',$reporter);
     }
 
 } 
