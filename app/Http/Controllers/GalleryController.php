@@ -115,7 +115,7 @@ class GalleryController extends Controller {
         //------------------------------------------------------------------------------------------
 
 
-        return view('gallery')->with($reporter);
+        return view('gallery', $reporter);
     }
 
 } 
