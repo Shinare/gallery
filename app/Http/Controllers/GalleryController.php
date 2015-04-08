@@ -18,6 +18,11 @@ class GalleryController extends Controller {
         return view('gallery');
     }
 
+    public function addPicturesGet(){
+        $mover="Please upload a file";
+        return View("gallery-add")->with('mover',$mover);
+    }
+
     public function addPictures()
     {
             //THUMBNAILSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
