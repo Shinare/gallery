@@ -32,4 +32,8 @@ Route::group(['middleware'=>'auth'],function(){
         'as'=>'gallery-add',
         'uses'=>'GalleryController@addPictures'
     ]);
+    Route::post('/gallery/add',[
+        'as'=>'gallery-add-post',
+        'uses'=>'GalleryController@addPictures'
+    ]);
 });

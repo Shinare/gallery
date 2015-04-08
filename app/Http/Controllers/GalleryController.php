@@ -110,8 +110,39 @@ class GalleryController extends Controller {
         //------------------------------------------------------------------------------------------
             //GDPLUGIN
         //------------------------------------------------------------------------------------------
+        $fileName=$_FILES["uploaded_file"]["name"];
+        $fileTmpLoc=$_FILES["uploaded_file"]["temp_name"];
+        $fileType=$_FILES["uploaded_file"]["type"];
+        $fileSize=$_FILES["uploaded_file"]["size"];
+        $fileErrorMsg=$_FILES["uploaded_file"]["error"];
 
-            $mover = "herro im mover";
+        $mover = "herro im mover";
+
+        if(!$fileTmpLoc){
+            $mover="Please select a file first";
+            exit();
+        } else if($fileSize>10000000){
+            $mover="File too large ~10Mb max";
+            unlink($fileTmpLoc);
+            exit();
+        } else if(!preg_match("/\.(gif|jpg|png)$/i",$fileName)){
+            $mover="Image was not a gif,png,jpg.";
+            unlink($fileTmpLoc);
+            exit();
+        } else if($fileErrorMsg==1){
+            $mover="An error occured.";
+            exit();
+        }
+        $moveResult=move_uploaded_file($fileTmpLoc,"img/".$fileName);
+        if($moveResult!=true){
+            $mover="Error failed to upload.";
+            unlink($fileTmpLoc);
+            exit();
+        } else {
+            unlink($fileTmpLoc);
+            $mover = "The file " . $fileName . " has been uploaded successfully.";
+        }
+
 
         //------------------------------------------------------------------------------------------
 
