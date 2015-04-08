@@ -2,7 +2,7 @@
 
 @section('content')
     @if(isset($mover)==true)
-        {{$mover}}
+        <p class="@if($error==1) alert alert-success @else alert alert-danger @endif" role="alert"> {{$mover}} </p>
     @endif
     <form enctype="multipart/form-data" method="post" type="file" action="{{URL('/gallery/add')}}">
         Chose your file:

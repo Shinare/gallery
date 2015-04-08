@@ -139,21 +139,22 @@ class GalleryController extends Controller {
             $error=1;
         }
         if($error!=1){
-        $moveResult=move_uploaded_file($fileTmpLoc,"img/".$fileName);
-        if($moveResult!=true) {
-            $mover="Error failed to upload.";
-            unlink($fileTmpLoc);
-            exit();
-        } else {
-            //unlink($fileTmpLoc);
-            $mover = "The file " . $fileName . " has been uploaded successfully.";
+            $moveResult=move_uploaded_file($fileTmpLoc,"img/".$fileName);
+            if($moveResult!=true) {
+                $mover="Error failed to upload.";
+                unlink($fileTmpLoc);
+                exit();
+            } else {
+                //unlink($fileTmpLoc);
+                $error=0;
+                $mover = "The file " . $fileName . " has been uploaded successfully.";
         }}
 
 
         //------------------------------------------------------------------------------------------
 
 
-        return View("gallery-add")->with('mover',$mover);
+        return View("gallery-add")->with(['mover'=>$mover,'error'=>$error]);
     }
 
 } 

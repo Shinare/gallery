@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" line="155" />
+    <bookmark url="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" line="156" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3719c81-443d-4cf8-8f22-86de23c1bcc5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/gallery-add.blade.php" afterPath="$PROJECT_DIR$/resources/views/gallery-add.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gallery.iws" />
@@ -61,21 +62,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery-add.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gallery-add.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/gallery-add.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5454545" vertical-offset="0" max-vertical-offset="306">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.055105347" vertical-offset="0" max-vertical-offset="1234">
+              <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GalleryController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GalleryController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72447324" vertical-offset="1435" max-vertical-offset="2703">
-              <caret line="142" column="30" selection-start-line="142" selection-start-column="30" selection-end-line="142" selection-end-column="30" />
+            <state vertical-scroll-proportion="-44.653847" vertical-offset="1406" max-vertical-offset="2720">
+              <caret line="156" column="76" selection-start-line="156" selection-start-column="76" selection-end-line="156" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -113,8 +114,8 @@
         <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/galler-add.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/resources/views/gallery-add.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
+        <option value="$PROJECT_DIR$/resources/views/gallery-add.blade.php" />
       </list>
     </option>
   </component>
@@ -721,7 +722,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428466572378</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="From IDE">
+      <created>1428466745108</created>
+      <option name="number" value="00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1428466745108</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1148,18 +1155,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/gallery-add.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5454545" vertical-offset="0" max-vertical-offset="306">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state vertical-scroll-proportion="-44.653847" vertical-offset="1406" max-vertical-offset="2720">
+          <caret line="156" column="76" selection-start-line="156" selection-start-column="76" selection-end-line="156" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/gallery-add.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72447324" vertical-offset="1435" max-vertical-offset="2703">
-          <caret line="142" column="30" selection-start-line="142" selection-start-column="30" selection-end-line="142" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.055105347" vertical-offset="0" max-vertical-offset="1234">
+          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
           <folding />
         </state>
       </provider>
