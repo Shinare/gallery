@@ -158,4 +158,13 @@ class GalleryController extends Controller {
         return View("gallery-add")->with(['mover'=>$mover,'error'=>$error]);
     }
 
+    public function showPicture(){
+        function showMe()
+        {
+            header('Content-Type: image/jpeg');
+            readfile("https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--76.jpg");
+        }
+        return showMe();
+
+    }
 } 
