@@ -178,9 +178,9 @@ class GalleryController extends Controller {
 
     public function showGallery(){
 
-        $user = Photo::find(1)->title;
+        $uzer = Photo::find(1)->title;
 
 
-        return view('gallery')->with('user',$user);
+        return view('gallery')->with('uzer',$uzer);
     }
 } 

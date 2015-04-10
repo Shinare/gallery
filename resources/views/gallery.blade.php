@@ -88,7 +88,7 @@ Management system
 
         <div class="my-simple-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
-            {{$user}}
+            {{$uzer}}
 
 
         </div>
