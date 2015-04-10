@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
 	/*
 	|--------------------------------------------------------------------------
@@ -15,7 +15,7 @@ return array(
 	|
 	*/
 
-	'driver' => 'smtp',
+	'driver' => env('MAIL_DRIVER', 'smtp'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -28,7 +28,7 @@ return array(
 	|
 	*/
 
-	'host' => 'smtp.gmail.com',
+	'host' => env('MAIL_HOST', 'smtp.mailgun.org'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -41,7 +41,7 @@ return array(
 	|
 	*/
 
-	'port' => 465,
+	'port' => env('MAIL_PORT', 587),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'rafal@kacprzyk.co.uk', 'name' => 'Auth'),
+	'from' => ['address' => 'rafal@kacprzyk.co.uk', 'name' => 'Rafal Kacprzyk'],
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'rafal@kacprzyk.co.uk',
+	'username' => env('MAIL_USERNAME'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => 'tkpldtulogdcgpug',
+	'password' => env('MAIL_PASSWORD'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -121,4 +121,4 @@ return array(
 
 	'pretend' => false,
 
-);
+];
