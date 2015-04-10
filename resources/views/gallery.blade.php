@@ -88,7 +88,14 @@ Management system
 
         <div class="my-simple-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
-            {{$photos}}
+            @foreach($photos as $photo)
+                <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                    <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/{{$photo->source}}" itemprop="contentUrl" data-size="{{$photo->width}}x{{$photo->height}}">
+                        <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/{{$photo->source}}" itemprop="thumbnail" alt="Image description" />
+                    </a>
+                    <figcaption itemprop="caption description">{{$photo->caption}}</figcaption>
+                </figure>
+            @endforeach
 
 
         </div>
