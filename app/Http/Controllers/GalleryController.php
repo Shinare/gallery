@@ -10,6 +10,7 @@ namespace App\Http\Controllers;
 
 
 use App\Photo;
+use App\Gallery;
 use Illuminate\Support\Facades\View;
 
 class GalleryController extends Controller {
@@ -181,9 +182,10 @@ class GalleryController extends Controller {
 
     public function showGallery(){
 
-        $photos = Photo::where('galleries_id','=',1)->get();
+        $gallery_id = 1;
+        $photos = Photo::where('galleries_id','=',$gallery_id)->get();
+        $galleries = Gallery::find($gallery_id)->name;
 
-
-        return view('gallery')->with('photos',$photos);
+        return view('gallery')->with(['photos'=>$photos, 'galleries'=>$galleries]);
     }
 } 
