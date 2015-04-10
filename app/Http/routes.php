@@ -15,6 +15,7 @@ Route::get('/', 'WelcomeController@index');
 Route::get('/sender', 'WelcomeController@sender');
 
 Route::get('/gallery','GalleryController@index');
+Route::get('/gallery/showGallery','GalleryController@showGallery');
 
 Route::get('home', 'HomeController@index');
 
