@@ -9,6 +9,7 @@
 namespace App\Http\Controllers;
 
 
+use App\Photo;
 use Illuminate\Support\Facades\View;
 
 class GalleryController extends Controller {
@@ -154,10 +155,13 @@ class GalleryController extends Controller {
 
         //------------------------------------------------------------------------------------------
 
-
         return View("gallery-add")->with(['mover'=>$mover,'error'=>$error]);
     }
 
+    //------------------------------------------------------------------------------------------
+    //Show pictures
+    //------------------------------------------------------------------------------------------
+    //
     public function showPicture(){
         function showMe()
         {
@@ -166,5 +170,29 @@ class GalleryController extends Controller {
         }
         return showMe();
 
+    }
+
+    //------------------------------------------------------------------------------------------
+    //Show Gallery
+    //------------------------------------------------------------------------------------------
+
+    public function showGallery(){
+
+        function showMeGallery(){
+
+
+            foreach(Photo::find('*') as $uzer){
+                echo '<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--59.jpg" itemprop="contentUrl" data-size="4223x2815">
+                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--59.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description">Image caption  1</figcaption>
+
+            </figure>';
+            }
+
+        }
+
+        return view('gallery');
     }
 } 
