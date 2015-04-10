@@ -84,7 +84,7 @@ Management system
 
         </div>
 
-        <h2>Third gallery:</h2>
+        <h2>{{\App\Gallery::find(1)->name;}}</h2>
 
         <div class="my-simple-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
