@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3719c81-443d-4cf8-8f22-86de23c1bcc5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/gallery.blade.php" afterPath="$PROJECT_DIR$/resources/views/gallery.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gallery.iws" />
@@ -51,18 +51,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GalleryController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GalleryController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6634996" vertical-offset="2103" max-vertical-offset="3366">
-              <caret line="178" column="34" selection-start-line="178" selection-start-column="34" selection-end-line="178" selection-end-column="34" />
+            <state vertical-scroll-proportion="-36.153847" vertical-offset="2052" max-vertical-offset="3315">
+              <caret line="181" column="43" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
               <folding>
                 <element signature="e#121#135#0#PHP" expanded="true" />
-                <marker date="1428633448442" expanded="true" signature="7701:7789" placeholder="..." />
-                <marker date="1428633448442" expanded="true" signature="7701:7790" placeholder="..." />
-                <marker date="1428633448442" expanded="true" signature="7701:7816" placeholder="..." />
-                <marker date="1428633448442" expanded="true" signature="7701:8153" placeholder="..." />
-                <marker date="1428633448442" expanded="true" signature="7851:8041" placeholder="..." />
+                <marker date="1428633718400" expanded="true" signature="7660:7748" placeholder="..." />
+                <marker date="1428633718400" expanded="true" signature="7660:7749" placeholder="..." />
+                <marker date="1428633718400" expanded="true" signature="7660:7775" placeholder="..." />
+                <marker date="1428633718400" expanded="true" signature="7660:8112" placeholder="..." />
+                <marker date="1428633718400" expanded="true" signature="7810:8000" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -102,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gallery.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/gallery.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-27.461538" vertical-offset="748" max-vertical-offset="6137">
-              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6191607" vertical-offset="748" max-vertical-offset="6307">
+              <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -138,8 +138,8 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" />
-        <option value="$PROJECT_DIR$/resources/views/gallery.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
+        <option value="$PROJECT_DIR$/resources/views/gallery.blade.php" />
       </list>
     </option>
   </component>
@@ -530,18 +530,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00018" summary="From IDE">
-      <created>1428458904194</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1428458904194</updated>
-    </task>
-    <task id="LOCAL-00019" summary="From IDE">
-      <created>1428459121765</created>
-      <option name="number" value="00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1428459121765</updated>
-    </task>
     <task id="LOCAL-00020" summary="From IDE">
       <created>1428459170757</created>
       <option name="number" value="00020" />
@@ -824,7 +812,19 @@
       <option name="project" value="LOCAL" />
       <updated>1428633370196</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="From IDE">
+      <created>1428633457515</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1428633457515</updated>
+    </task>
+    <task id="LOCAL-00068" summary="From IDE">
+      <created>1428633723823</created>
+      <option name="number" value="00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1428633723823</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1259,26 +1259,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/gallery.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.461538" vertical-offset="748" max-vertical-offset="6137">
-          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-36.153847" vertical-offset="2052" max-vertical-offset="3315">
+          <caret line="181" column="43" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
+          <folding>
+            <element signature="e#121#135#0#PHP" expanded="true" />
+            <marker date="1428633718400" expanded="true" signature="7660:7748" placeholder="..." />
+            <marker date="1428633718400" expanded="true" signature="7660:7749" placeholder="..." />
+            <marker date="1428633718400" expanded="true" signature="7660:7775" placeholder="..." />
+            <marker date="1428633718400" expanded="true" signature="7660:8112" placeholder="..." />
+            <marker date="1428633718400" expanded="true" signature="7810:8000" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/gallery.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6634996" vertical-offset="2103" max-vertical-offset="3366">
-          <caret line="178" column="34" selection-start-line="178" selection-start-column="34" selection-end-line="178" selection-end-column="34" />
-          <folding>
-            <element signature="e#121#135#0#PHP" expanded="true" />
-            <marker date="1428633448442" expanded="true" signature="7701:7789" placeholder="..." />
-            <marker date="1428633448442" expanded="true" signature="7701:7790" placeholder="..." />
-            <marker date="1428633448442" expanded="true" signature="7701:7816" placeholder="..." />
-            <marker date="1428633448442" expanded="true" signature="7701:8153" placeholder="..." />
-            <marker date="1428633448442" expanded="true" signature="7851:8041" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.6191607" vertical-offset="748" max-vertical-offset="6307">
+          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
