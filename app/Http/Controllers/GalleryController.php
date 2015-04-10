@@ -180,7 +180,7 @@ class GalleryController extends Controller {
 
         $photos = Photo::where('galleries_id','=',1);
 
-
+echo "herro";
 
         return view('gallery')->with('photos',$photos);
     }
