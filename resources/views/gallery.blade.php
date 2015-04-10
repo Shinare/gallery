@@ -88,7 +88,7 @@ Management system
 
         <div class="my-simple-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
-            @foreach(Photo::find('*') as $uzer)
+            @foreach(\App\Photo::find('*') as $uzer)
                 alert(1);
 
             @endforeach
