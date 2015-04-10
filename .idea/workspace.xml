@@ -88,8 +88,8 @@
       <file leaf-file-name="GalleryController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6904196" vertical-offset="1899" max-vertical-offset="3162">
-              <caret line="168" column="86" selection-start-line="168" selection-start-column="86" selection-end-line="168" selection-end-column="86" />
+            <state vertical-scroll-proportion="0.6500396" vertical-offset="1899" max-vertical-offset="3162">
+              <caret line="165" column="24" selection-start-line="165" selection-start-column="24" selection-end-line="165" selection-end-column="24" />
               <folding>
                 <element signature="e#121#135#0#PHP" expanded="true" />
               </folding>
@@ -525,12 +525,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00047" summary="From IDE">
-      <created>1428503178187</created>
-      <option name="number" value="00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1428503178187</updated>
-    </task>
     <task id="LOCAL-00048" summary="From IDE">
       <created>1428503371171</created>
       <option name="number" value="00048" />
@@ -819,7 +813,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428675054499</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="From IDE">
+      <created>1428675108999</created>
+      <option name="number" value="00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1428675108999</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1258,8 +1258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6904196" vertical-offset="1899" max-vertical-offset="3162">
-          <caret line="168" column="86" selection-start-line="168" selection-start-column="86" selection-end-line="168" selection-end-column="86" />
+        <state vertical-scroll-proportion="0.6500396" vertical-offset="1899" max-vertical-offset="3162">
+          <caret line="165" column="24" selection-start-line="165" selection-start-column="24" selection-end-line="165" selection-end-column="24" />
           <folding>
             <element signature="e#121#135#0#PHP" expanded="true" />
           </folding>
