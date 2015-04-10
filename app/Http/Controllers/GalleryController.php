@@ -159,12 +159,18 @@ class GalleryController extends Controller {
     }
 
     //------------------------------------------------------------------------------------------
-    //Show pictures
+    //Show pictures and thumbs
     //------------------------------------------------------------------------------------------
     //
-    public function showPicture($thumbnails,$pic_name){
+    public function showPicture($pic_name){
+        header('Content-Type: image/jpeg');
+        readfile("https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/".$pic_name);
+        return;
+
+    }
+    public function showThumb($pic_name){
             header('Content-Type: image/jpeg');
-            readfile("https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/".$thumbnails."/".$pic_name);
+            readfile("https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/".$pic_name);
         return;
 
     }

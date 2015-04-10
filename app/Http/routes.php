@@ -31,7 +31,8 @@ Route::group(['middleware'=>'auth'],function(){
         'uses'=>'TsController@teamspeak',
     ]);
     Route::get('/gallery/add', function(){ return View('gallery-add');});
-    Route::get('/gallery/show/{thumbnails?}/{pic_name}','GalleryController@showPicture');
+    Route::get('/gallery/show/{pic_name}','GalleryController@showPicture');
+    Route::get('/gallery/show/thumbnails/{pic_name}','GalleryController@showThumb');
     Route::post('/gallery/add',[
         'as'=>'gallery-add-post',
         'uses'=>'GalleryController@addPictures'
