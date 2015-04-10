@@ -34,4 +34,12 @@ class WelcomeController extends Controller {
 	{
 		return view('welcome');
 	}
+
+    public function sender()
+    {
+        Mail::send('email.auth.test',['name'=>'alex'], function($message){
+            $message->to('wahapaka@gmail.com','RK')->subject('Test Email');
+        });
+        return view('welcome');
+    }
 }
