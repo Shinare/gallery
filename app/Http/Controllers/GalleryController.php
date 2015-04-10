@@ -178,7 +178,7 @@ class GalleryController extends Controller {
 
     public function showGallery(){
 
-        $uzer = Photo::where('galleries_id','=',1)->count();
+        $uzer = Photo::where('galleries_id','=',1)->first()->count();
 
 
         return view('gallery')->with('uzer',$uzer);
