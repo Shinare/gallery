@@ -14,8 +14,8 @@
 Route::get('/', 'WelcomeController@index');
 Route::get('/sender', 'WelcomeController@sender');
 
-Route::get('/gallery','GalleryController@index');
-Route::get('/gallery/showGallery','GalleryController@showGallery');
+Route::get('/gallery/showgallery','GalleryController@index');
+
 
 Route::get('home', 'HomeController@index');
 
@@ -33,6 +33,7 @@ Route::group(['middleware'=>'auth'],function(){
     Route::get('/gallery/add', function(){ return View('gallery-add');});
     Route::get('/gallery/show/{pic_name}','GalleryController@showPicture');
     Route::get('/gallery/show/thumbnails/{pic_name}','GalleryController@showThumb');
+    Route::get('/gallery','GalleryController@showGallery');
     Route::post('/gallery/add',[
         'as'=>'gallery-add-post',
         'uses'=>'GalleryController@addPictures'
