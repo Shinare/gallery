@@ -166,7 +166,7 @@ class GalleryController extends Controller {
         function showMe($pic_name)
         {
             header('Content-Type: image/jpeg');
-            readfile("https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/"$pic_name);
+            readfile("https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/".$pic_name);
         }
         return showMe();
 
