@@ -90,7 +90,7 @@ Management system
 
             @foreach($photos as $photo)
                 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                    <a href="{{url('/gallery/add')}}" itemprop="contentUrl" data-size="{{$photo->width}}x{{$photo->height}}">
+                    <a href="{{url('/gallery/show')}}" itemprop="contentUrl" data-size="{{$photo->width}}x{{$photo->height}}">
                         <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/{{$photo->source}}" itemprop="thumbnail" alt="Image description" />
                     </a>
                     <figcaption itemprop="caption description">{{$photo->caption}}</figcaption>
