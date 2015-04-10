@@ -178,18 +178,9 @@ class GalleryController extends Controller {
 
     public function showGallery(){
 
-
-            foreach(Photo::find('*') as $u1zer){
-                echo '<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--59.jpg" itemprop="contentUrl" data-size="4223x2815">
-                    <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--59.jpg" itemprop="thumbnail" alt="Image description" />
-                </a>
-                <figcaption itemprop="caption description">Image caption  1</figcaption>
-
-            </figure>';
-            }
+        $user = Photo::find(1)->title;
 
 
-        return view('gallery');
+        return view('gallery')->with('user',$user);
     }
 } 
