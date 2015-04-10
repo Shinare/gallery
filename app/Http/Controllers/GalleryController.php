@@ -178,10 +178,8 @@ class GalleryController extends Controller {
 
     public function showGallery(){
 
-        public function showMeGallery(){
 
-
-            foreach(Photo::find('*') as $uzer){
+            foreach(Photo::find('*') as $u1zer){
                 echo '<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                 <a href="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/20140705--59.jpg" itemprop="contentUrl" data-size="4223x2815">
                     <img src="https://s3-eu-west-1.amazonaws.com/www.kacprzyk.co.uk/gallery/thumbnails/20140705--59.jpg" itemprop="thumbnail" alt="Image description" />
@@ -191,7 +189,6 @@ class GalleryController extends Controller {
             </figure>';
             }
 
-        }
 
         return view('gallery');
     }
