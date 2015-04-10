@@ -178,7 +178,7 @@ class GalleryController extends Controller {
 
     public function showGallery(){
 
-        $photos = Photo::where('galleries_id','=',1)->first()->title;
+        $photos = Photo::where('galleries_id','=',1);
 
             foreach($photos as $photo){
                 echo $photo->title;
