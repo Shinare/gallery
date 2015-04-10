@@ -178,7 +178,7 @@ class GalleryController extends Controller {
 
     public function showGallery(){
 
-        function showMeGallery(){
+        public function showMeGallery(){
 
 
             foreach(Photo::find('*') as $uzer){
