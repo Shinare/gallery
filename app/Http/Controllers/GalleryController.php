@@ -180,7 +180,9 @@ class GalleryController extends Controller {
 
         $photos = Photo::where('galleries_id','=',1)->first()->title;
 
-echo "herro";
+            foreach($photos as $photo){
+                echo $photo->title;
+            }
 
         return view('gallery')->with('photos',$photos);
     }
