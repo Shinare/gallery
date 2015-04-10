@@ -14,7 +14,7 @@
 Route::get('/', 'WelcomeController@index');
 Route::get('/sender', 'WelcomeController@sender');
 
-Route::get('/gallery/add', function(){ return asset('/upload/index.html');});
+Route::get('/upload', function(){ return asset('/upload/index.html');});
 
 Route::get('/gallery/showgallery','GalleryController@index');
 
