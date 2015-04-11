@@ -4,7 +4,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Generic page styles -->
-    <link rel="stylesheet" href="{{asset('css/upload/style.css')}}">
+    <!-- that didnt work #############################<link rel="stylesheet" href="{{asset('css/upload/style.css')}}">-->
     <!-- blueimp Gallery styles -->
     <link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
     <!-- CSS to style the file input field as button and adjust the Bootstrap progress bars -->
