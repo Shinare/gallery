@@ -2,17 +2,7 @@
 
 @section('head')
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Generic page styles -->
-    <link rel="stylesheet" href="{{asset('css/upload/style.css')}}">
-    <!-- blueimp Gallery styles -->
-    <link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
-    <!-- CSS to style the file input field as button and adjust the Bootstrap progress bars -->
-    <link rel="stylesheet" href="{{asset('css/upload/jquery.fileupload.css')}}">
-    <link rel="stylesheet" href="{{asset('css/upload/jquery.fileupload-ui.css')}}">
-    <!-- CSS adjustments for browsers with JavaScript disabled -->
-    <noscript><link rel="stylesheet" href="{{asset('css/upload/jquery.fileupload-nonscript.css')}}"></noscript>
-    <noscript><link rel="stylesheet" href="{{asset('css/upload/jquery.fileupload-ui-nonscript.css')}}"></noscript>
+
 
 @endsection
 
