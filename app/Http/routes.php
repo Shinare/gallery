@@ -15,7 +15,6 @@ Route::get('/', 'WelcomeController@index');
 Route::get('/sender', 'WelcomeController@sender');
 
 Route::get('/gallery/showgallery','GalleryController@index');
-Route::post('/gallery/autoadd', 'UploadController@index');
 Route::get('/gallery/autoadd', 'UploadController@index');
 
 Route::get('home', 'HomeController@index');
