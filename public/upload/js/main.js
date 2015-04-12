@@ -30,7 +30,7 @@ $(function () {
             '../upload/cors/result.html?%s'
         )
     );
-
+alert(2);
     if (window.location.hostname === 'kacprzyk.co.uk') {
         // Demo settings:
         alert("huah");
