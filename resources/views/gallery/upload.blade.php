@@ -75,7 +75,6 @@
         </div>
         <!-- The table listing the files available for upload/download -->
         <table role="presentation" class="table table-striped"><tbody class="files"></tbody></table>
-        <input type="hidden" name="_CSRF" value="{{csrf_token()}}">
     </form>
     <br>
     <div class="panel panel-default">
