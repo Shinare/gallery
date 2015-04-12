@@ -17,6 +17,7 @@ Route::get('/sender', 'WelcomeController@sender');
 Route::get('/gallery/showgallery','GalleryController@index');
 Route::get('/gallery/autoadd', 'UploadController@index');
 Route::post('/gallery/autoadd', 'UploadController@index');
+Route::get('/gallery/upload', function(){ return View('gallery.upload');});
 
 Route::get('home', 'HomeController@index');
 
@@ -31,7 +32,7 @@ Route::group(['middleware'=>'auth'],function(){
         'as'=>'ts',
         'uses'=>'TsController@teamspeak',
     ]);
-    Route::get('/gallery/upload', function(){ return View('gallery.upload');});
+
     Route::get('/gallery/add', function(){ return View('gallery-add');});
     Route::get('/gallery/show/{pic_name}','GalleryController@showPicture');
     Route::get('/gallery/show/thumbnails/{pic_name}','GalleryController@showThumb');
