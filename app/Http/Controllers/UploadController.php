@@ -10,7 +10,7 @@ class UploadController extends Controller {
 
 	public function index()
 	{
-        asset('upload/server/php');
+        asset('upload/server/php/index.php');
 	}
 
 }
