@@ -77,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.1450737" vertical-offset="0" max-vertical-offset="1289">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -512,12 +512,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00099" summary="From IDE">
-      <created>1428675781469</created>
-      <option name="number" value="00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1428675781469</updated>
-    </task>
     <task id="LOCAL-00100" summary="From IDE">
       <created>1428675873829</created>
       <option name="number" value="00100" />
@@ -806,7 +800,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428804222284</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="From IDE">
+      <created>1428804300100</created>
+      <option name="number" value="00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1428804300100</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1253,7 +1253,7 @@
     <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1450737" vertical-offset="0" max-vertical-offset="1289">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding />
         </state>
       </provider>
