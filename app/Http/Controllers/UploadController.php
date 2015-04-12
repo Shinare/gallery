@@ -10,7 +10,7 @@ class UploadController extends Controller {
 
 	public function index()
 	{
-        return asset('upload/server/php');
+        return asset('upload/server/node');
 	}
 
 }

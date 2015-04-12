@@ -45,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UploadController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.16152018" vertical-offset="0" max-vertical-offset="1263">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="e#39#61#0#PHP" expanded="true" />
               </folding>
@@ -521,12 +521,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00081" summary="From IDE">
-      <created>1428636668416</created>
-      <option name="number" value="00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1428636668416</updated>
-    </task>
     <task id="LOCAL-00082" summary="From IDE">
       <created>1428636849538</created>
       <option name="number" value="00082" />
@@ -815,7 +809,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428802628698</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="From IDE">
+      <created>1428802776233</created>
+      <option name="number" value="00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1428802776233</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1268,7 +1268,7 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UploadController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16152018" vertical-offset="0" max-vertical-offset="1263">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="e#39#61#0#PHP" expanded="true" />
           </folding>
