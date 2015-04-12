@@ -44,8 +44,8 @@
       <file leaf-file-name="UploadController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UploadController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6904196" vertical-offset="22469" max-vertical-offset="24599">
-              <caret line="1373" column="5" selection-start-line="1373" selection-start-column="5" selection-end-line="1373" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.86539984" vertical-offset="22180" max-vertical-offset="23443">
+              <caret line="1369" column="5" selection-start-line="1369" selection-start-column="5" selection-end-line="1369" selection-end-column="5" />
               <folding>
                 <element signature="e#39#61#0#PHP" expanded="true" />
               </folding>
@@ -76,8 +76,8 @@
       <file leaf-file-name="UploadHandler.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/upload/server/php/UploadHandler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-45.307693" vertical-offset="22146" max-vertical-offset="23477">
-              <caret line="1372" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="1372" selection-end-column="5" />
+            <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="23477">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="1372" selection-end-column="5" />
               <folding>
                 <element signature="e#6#248#0#PHP" expanded="true" />
               </folding>
@@ -126,6 +126,7 @@
         <option value="$PROJECT_DIR$/resources/views/gallery/upload.blade.php" />
         <option value="$PROJECT_DIR$/public/upload/js/main.js" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/public/upload/server/php/UploadHandler.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/UploadController.php" />
       </list>
     </option>
@@ -500,12 +501,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00074" summary="From IDE">
-      <created>1428634799775</created>
-      <option name="number" value="00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1428634799775</updated>
-    </task>
     <task id="LOCAL-00075" summary="From IDE">
       <created>1428635740485</created>
       <option name="number" value="00075" />
@@ -794,7 +789,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428801626885</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="From IDE">
+      <created>1428801828099</created>
+      <option name="number" value="00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1428801828099</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1235,8 +1236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/upload/server/php/UploadHandler.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-45.307693" vertical-offset="22146" max-vertical-offset="23477">
-          <caret line="1372" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="1372" selection-end-column="5" />
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="23477">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="1372" selection-end-column="5" />
           <folding>
             <element signature="e#6#248#0#PHP" expanded="true" />
           </folding>
@@ -1245,8 +1246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UploadController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6904196" vertical-offset="22469" max-vertical-offset="24599">
-          <caret line="1373" column="5" selection-start-line="1373" selection-start-column="5" selection-end-line="1373" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.86539984" vertical-offset="22180" max-vertical-offset="23443">
+          <caret line="1369" column="5" selection-start-line="1369" selection-start-column="5" selection-end-line="1369" selection-end-column="5" />
           <folding>
             <element signature="e#39#61#0#PHP" expanded="true" />
           </folding>
