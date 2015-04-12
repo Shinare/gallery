@@ -34,7 +34,7 @@ $(function () {
     if (window.location.hostname === 'kacprzyk.co.uk') {
         // Demo settings:
         $('#fileupload').fileupload('option', {
-            url: '//kacprzyk.co.uk/',
+            url: '//kacprzyk.co.uk/gallery/autoadd',
             // Enable image resizing, except for Android and Opera,
             // which actually support image resizing, but fail to
             // send Blob objects via XHR requests:
