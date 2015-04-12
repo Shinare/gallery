@@ -35,7 +35,7 @@ $(function () {
         // Demo settings:
         alert("huah");
         $('#fileupload').fileupload('option', {
-            url: '//kacprzyk.co.uk/',
+            url: '//www.kacprzyk.co.uk/',
             // Enable image resizing, except for Android and Opera,
             // which actually support image resizing, but fail to
             // send Blob objects via XHR requests:
@@ -47,7 +47,7 @@ $(function () {
         // Upload server status check for browsers with CORS support:
         if ($.support.cors) {
             $.ajax({
-                url: '//kacprzyk.co.uk/',
+                url: '//www.kacprzyk.co.uk/',
                 type: 'HEAD'
             }).fail(function () {
                 $('<div class="alert alert-danger"/>')
