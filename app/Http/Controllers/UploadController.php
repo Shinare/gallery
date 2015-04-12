@@ -10,7 +10,9 @@ class UploadController extends Controller {
 
 	public function index()
 	{
-		echo 'hi';
+        error_reporting(E_ALL | E_STRICT);
+        require('UploadHandler.php');
+        $upload_handler = new UploadHandler();
 	}
 
 }
