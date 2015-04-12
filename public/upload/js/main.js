@@ -33,6 +33,7 @@ $(function () {
 
     if (window.location.hostname === 'kacprzyk.co.uk') {
         // Demo settings:
+        alert("huah");
         $('#fileupload').fileupload('option', {
             url: '//kacprzyk.co.uk/',
             // Enable image resizing, except for Android and Opera,
