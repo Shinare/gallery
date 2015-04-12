@@ -18,7 +18,7 @@ $(function () {
     $('#fileupload').fileupload({
         // Uncomment the following to send cross-domain cookies:
         //xhrFields: {withCredentials: true},
-        url: '../../upload/server/php/'
+        url: 'server/php/'
     });
 
     // Enable iframe cross-domain access via redirect option:
@@ -27,7 +27,7 @@ $(function () {
         'redirect',
         window.location.href.replace(
             /\/[^\/]*$/,
-            '../../uploaded/cors/result.html?%s'
+            '/cors/result.html?%s'
         )
     );
 
