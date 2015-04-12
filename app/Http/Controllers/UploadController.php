@@ -10,8 +10,7 @@ class UploadController extends Controller {
 
 	public function index()
 	{
-        url('upload/server/php/index.php');
-        return 'echo';
+        include('upload/server/php/index.php');
 	}
 
 }
