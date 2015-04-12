@@ -35,7 +35,7 @@ $(function () {
         // Demo settings:
         alert("huah");
         $('#fileupload').fileupload('option', {
-            url: '//www.kacprzyk.co.uk',
+            url: '//www.kacprzyk.co.uk/upload/server/php/index.php',
             // Enable image resizing, except for Android and Opera,
             // which actually support image resizing, but fail to
             // send Blob objects via XHR requests:
