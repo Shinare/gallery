@@ -47,7 +47,7 @@ $(function () {
         // Upload server status check for browsers with CORS support:
         if ($.support.cors) {
             $.ajax({
-                url: '//www.kacprzyk.co.uk/',
+                url: '//kacprzyk.co.uk/',
                 type: 'HEAD'
             }).fail(function () {
                 $('<div class="alert alert-danger"/>')
