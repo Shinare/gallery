@@ -5,27 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3719c81-443d-4cf8-8f22-86de23c1bcc5" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\app.js" afterPath="$PROJECT_DIR$/public/upload/js/app.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\cors\jquery.postmessage-transport.js" afterPath="$PROJECT_DIR$/public/upload/js/cors/jquery.postmessage-transport.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\cors\jquery.xdr-transport.js" afterPath="$PROJECT_DIR$/public/upload/js/cors/jquery.xdr-transport.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload-angular.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload-angular.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload-audio.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload-audio.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload-image.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload-image.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload-jquery-ui.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload-jquery-ui.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload-process.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload-process.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload-ui.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload-ui.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload-validate.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload-validate.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload-video.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload-video.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.fileupload.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.fileupload.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\jquery.iframe-transport.js" afterPath="$PROJECT_DIR$/public/upload/js/jquery.iframe-transport.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\main.js" afterPath="$PROJECT_DIR$/public/upload/js/main.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\gallery\public\js\upload\vendor\jquery.ui.widget.js" afterPath="$PROJECT_DIR$/public/upload/js/vendor/jquery.ui.widget.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/upload/angularjs.html" afterPath="$PROJECT_DIR$/public/upload/angularjs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/upload/basic-plus.html" afterPath="$PROJECT_DIR$/public/upload/basic-plus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/upload/basic.html" afterPath="$PROJECT_DIR$/public/upload/basic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/upload/index.html" afterPath="$PROJECT_DIR$/public/upload/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/upload/test/index.html" afterPath="$PROJECT_DIR$/public/upload/test/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/upload/jquery-ui.html" afterPath="$PROJECT_DIR$/public/upload/jquery-ui.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/gallery/upload.blade.php" afterPath="$PROJECT_DIR$/resources/views/gallery/upload.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -62,21 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="upload.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/gallery/upload.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.73077" vertical-offset="2596" max-vertical-offset="3859">
-              <caret line="189" column="42" selection-start-line="189" selection-start-column="42" selection-end-line="189" selection-end-column="42" />
+            <state vertical-scroll-proportion="-0.709422" vertical-offset="2596" max-vertical-offset="3859">
+              <caret line="100" column="25" selection-start-line="100" selection-start-column="25" selection-end-line="100" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2901474" vertical-offset="0" max-vertical-offset="1289">
-              <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+              <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -143,8 +122,8 @@
         <option value="$PROJECT_DIR$/resources/views/gallery.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/public/js/upload/main.js" />
-        <option value="$PROJECT_DIR$/resources/views/gallery/upload.blade.php" />
         <option value="$PROJECT_DIR$/public/upload/js/main.js" />
+        <option value="$PROJECT_DIR$/resources/views/gallery/upload.blade.php" />
       </list>
     </option>
   </component>
@@ -492,12 +471,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00068" summary="From IDE">
-      <created>1428633723823</created>
-      <option name="number" value="00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1428633723823</updated>
-    </task>
     <task id="LOCAL-00069" summary="From IDE">
       <created>1428633897314</created>
       <option name="number" value="00069" />
@@ -786,7 +759,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428799677508</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="From IDE">
+      <created>1428800579130</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1428800579130</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1224,18 +1203,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/gallery/upload.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.73077" vertical-offset="2596" max-vertical-offset="3859">
-          <caret line="189" column="42" selection-start-line="189" selection-start-column="42" selection-end-line="189" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
+    <entry file="file://$PROJECT_DIR$/resources/views/gallery/upload.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2901474" vertical-offset="0" max-vertical-offset="1289">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        <state vertical-scroll-proportion="-0.709422" vertical-offset="2596" max-vertical-offset="3859">
+          <caret line="100" column="25" selection-start-line="100" selection-start-column="25" selection-end-line="100" selection-end-column="25" />
           <folding />
         </state>
       </provider>
