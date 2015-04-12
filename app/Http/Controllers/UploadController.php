@@ -11,7 +11,7 @@ class UploadController extends Controller {
 	public function index()
 	{
         error_reporting(E_ALL | E_STRICT);
-        require('UploadHandler.php');
+        include('UploadHandler.php');
         $upload_handler = new UploadHandler();
 	}
 
