@@ -18,6 +18,7 @@ Route::get('/gallery/showgallery','GalleryController@index');
 Route::get('/gallery/autoadd', 'UploadController@index');
 Route::post('/gallery/autoadd', 'UploadController@index');
 Route::get('/gallery/upload', function(){ return View('gallery.upload');});
+Route::post('/gallery/upload', function(){ return View('gallery.upload');});
 
 Route::get('home', 'HomeController@index');
 
