@@ -4,9 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" line="158" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3719c81-443d-4cf8-8f22-86de23c1bcc5" name="Default" comment="From IDE">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/UploadController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+    <list default="true" id="a3719c81-443d-4cf8-8f22-86de23c1bcc5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/UploadController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/UploadController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gallery.iws" />
@@ -45,9 +44,11 @@
       <file leaf-file-name="UploadController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UploadController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18844022" vertical-offset="0" max-vertical-offset="24820">
-              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-              <folding />
+            <state vertical-scroll-proportion="0.6904196" vertical-offset="22469" max-vertical-offset="24599">
+              <caret line="1373" column="5" selection-start-line="1373" selection-start-column="5" selection-end-line="1373" selection-end-column="5" />
+              <folding>
+                <element signature="e#39#61#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,9 +76,11 @@
       <file leaf-file-name="UploadHandler.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/upload/server/php/UploadHandler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="23324">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1374" selection-end-column="1" />
-              <folding />
+            <state vertical-scroll-proportion="-45.307693" vertical-offset="22146" max-vertical-offset="23477">
+              <caret line="1372" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="1372" selection-end-column="5" />
+              <folding>
+                <element signature="e#6#248#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,18 +91,6 @@
             <state vertical-scroll-proportion="-35.5" vertical-offset="29" max-vertical-offset="1292">
               <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GalleryController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-37.46154" vertical-offset="1967" max-vertical-offset="3247">
-              <caret line="178" column="24" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
-              <folding>
-                <element signature="e#121#135#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -134,8 +125,8 @@
         <option value="$PROJECT_DIR$/public/js/upload/main.js" />
         <option value="$PROJECT_DIR$/resources/views/gallery/upload.blade.php" />
         <option value="$PROJECT_DIR$/public/upload/js/main.js" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/UploadController.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UploadController.php" />
       </list>
     </option>
   </component>
@@ -509,12 +500,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00073" summary="From IDE">
-      <created>1428634724876</created>
-      <option name="number" value="00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1428634724876</updated>
-    </task>
     <task id="LOCAL-00074" summary="From IDE">
       <created>1428634799775</created>
       <option name="number" value="00074" />
@@ -803,7 +788,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428801231205</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="From IDE">
+      <created>1428801626885</created>
+      <option name="number" value="00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1428801626885</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1200,10 +1191,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-35.5" vertical-offset="29" max-vertical-offset="1292">
-          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <caret line="69" column="48" selection-start-line="69" selection-start-column="48" selection-end-line="69" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="663">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -1216,25 +1215,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/upload/server/php/UploadHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="23324">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1374" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
-          <caret line="69" column="48" selection-start-line="69" selection-start-column="48" selection-end-line="69" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-37.46154" vertical-offset="1967" max-vertical-offset="3247">
+        <state vertical-scroll-proportion="0.7577197" vertical-offset="1984" max-vertical-offset="3247">
           <caret line="178" column="24" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
           <folding>
             <element signature="e#121#135#0#PHP" expanded="true" />
@@ -1242,19 +1225,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="663">
-          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        <state vertical-scroll-proportion="-35.5" vertical-offset="29" max-vertical-offset="1292">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/upload/server/php/UploadHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-45.307693" vertical-offset="22146" max-vertical-offset="23477">
+          <caret line="1372" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="1372" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#248#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UploadController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18844022" vertical-offset="0" max-vertical-offset="24820">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding />
+        <state vertical-scroll-proportion="0.6904196" vertical-offset="22469" max-vertical-offset="24599">
+          <caret line="1373" column="5" selection-start-line="1373" selection-start-column="5" selection-end-line="1373" selection-end-column="5" />
+          <folding>
+            <element signature="e#39#61#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
