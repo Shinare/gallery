@@ -44,10 +44,11 @@ $(function () {
             maxFileSize: 5000000,
             acceptFileTypes: /(\.|\/)(gif|jpe?g|png)$/i
         });
+        alert(2);
         // Upload server status check for browsers with CORS support:
         if ($.support.cors) {
             $.ajax({
-                url: '//kacprzyk.co.uk/',
+                url: '//www.kacprzyk.co.uk/',
                 type: 'HEAD'
             }).fail(function () {
                 $('<div class="alert alert-danger"/>')
