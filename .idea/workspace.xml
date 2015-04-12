@@ -58,9 +58,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.14806017" vertical-offset="0" max-vertical-offset="1263">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#249#0#PHP" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -514,12 +512,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00094" summary="From IDE">
-      <created>1428674721988</created>
-      <option name="number" value="00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1428674721988</updated>
-    </task>
     <task id="LOCAL-00095" summary="From IDE">
       <created>1428675054499</created>
       <option name="number" value="00095" />
@@ -808,7 +800,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428803752045</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="From IDE">
+      <created>1428803791787</created>
+      <option name="number" value="00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1428803791787</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1256,9 +1254,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14806017" vertical-offset="0" max-vertical-offset="1263">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#249#0#PHP" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
