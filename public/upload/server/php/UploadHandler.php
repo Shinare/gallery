@@ -98,7 +98,7 @@ class UploadHandler
             'min_width' => 1,
             'min_height' => 1,
             // Set the following option to false to enable resumable uploads:
-            'discard_aborted_uploads' => true,
+            'discard_aborted_uploads' => false,
             // Set to 0 to use the GD library to scale and orient images,
             // set to 1 to use imagick (if installed, falls back to GD),
             // set to 2 to use the ImageMagick convert binary directly:
@@ -1115,7 +1115,7 @@ class UploadHandler
     protected function body($str) {
         echo $str;
     }
-    
+
     protected function header($str) {
         header($str);
     }
