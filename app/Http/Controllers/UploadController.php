@@ -10,7 +10,7 @@ class UploadController extends Controller {
 
 	public function index()
 	{
-		alert('hi');
+		allert('hi');
 	}
 
 }
