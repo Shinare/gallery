@@ -54,8 +54,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1450737" vertical-offset="0" max-vertical-offset="1289">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.26377037" vertical-offset="0" max-vertical-offset="1289">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -497,12 +497,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00070" summary="From IDE">
-      <created>1428634214709</created>
-      <option name="number" value="00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1428634214709</updated>
-    </task>
     <task id="LOCAL-00071" summary="From IDE">
       <created>1428634456824</created>
       <option name="number" value="00071" />
@@ -791,7 +785,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428800833727</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="From IDE">
+      <created>1428801125451</created>
+      <option name="number" value="00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1428801125451</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1239,8 +1239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/upload/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1450737" vertical-offset="0" max-vertical-offset="1289">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.26377037" vertical-offset="0" max-vertical-offset="1289">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
           <folding />
         </state>
       </provider>

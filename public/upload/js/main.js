@@ -27,7 +27,7 @@ $(function () {
         'redirect',
         window.location.href.replace(
             /\/[^\/]*$/,
-            '/cors/result.html?%s'
+            '../cors/result.html?%s'
         )
     );
 
