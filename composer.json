@@ -7,8 +7,9 @@
 	"require": {
 		"laravel/framework": "5.0.*",
 		"barryvdh/laravel-ide-helper": "~2.0",
-		"aws/aws-sdk-php": "2.*",
-		"doctrine/cache": "~1.4"
+		"doctrine/cache": "~1.4",
+		"aws/aws-sdk-php-laravel": "~2.0",
+		"Aws/aws-sdk-php": "2.*"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
