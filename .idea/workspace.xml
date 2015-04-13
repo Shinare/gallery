@@ -104,10 +104,10 @@
       <file leaf-file-name="UploadHandler.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/upload/server/php/UploadHandler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24797407" vertical-offset="0" max-vertical-offset="24939">
-              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.027552674" vertical-offset="0" max-vertical-offset="24939">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding>
-                <element signature="e#7#27#0#PHP" expanded="true" />
+                <element signature="e#7#26#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -506,12 +506,6 @@
       <option name="number" value="Default" />
       <updated>1425228942499</updated>
     </task>
-    <task id="LOCAL-00128" summary="From IDE">
-      <created>1428802406282</created>
-      <option name="number" value="00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1428802406282</updated>
-    </task>
     <task id="LOCAL-00129" summary="From IDE">
       <created>1428802628698</created>
       <option name="number" value="00129" />
@@ -800,7 +794,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428888182558</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="From IDE">
+      <created>1428888367600</created>
+      <option name="number" value="00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1428888367600</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -1247,10 +1247,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/upload/server/php/UploadHandler.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24797407" vertical-offset="0" max-vertical-offset="24939">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.027552674" vertical-offset="0" max-vertical-offset="24939">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding>
-            <element signature="e#7#27#0#PHP" expanded="true" />
+            <element signature="e#7#26#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,6 +1,6 @@
 <?php
 
-use \Aws\Common\Aws;
+use Aws\Common\Aws;
 use Aws\S3\Exception\S3Exception;
 // make sure the SDK is installed
 // I've used Composer to autoload it: http://docs.aws.amazon.com/aws-sdk-php/guide/latest/installation.html
@@ -16,7 +16,7 @@ use Aws\S3\Exception\S3Exception;
  * http://www.opensource.org/licenses/MIT
  */
 
-class UploadHandler extends \App\Http\Controllers\Controller
+class UploadHandler
 {
 
     protected $options;
