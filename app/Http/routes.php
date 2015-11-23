@@ -20,6 +20,7 @@ Route::post('/gallery/autoadd', 'UploadController@index');
 
 
 Route::get('home', 'HomeController@index');
+Route::get('/testcert', function(){ return View('gallery.testcert');});
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
