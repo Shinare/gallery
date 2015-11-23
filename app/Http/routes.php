@@ -20,7 +20,7 @@ Route::post('/gallery/autoadd', 'UploadController@index');
 
 
 Route::get('home', 'HomeController@index');
-Route::get('/testcert', function(){ return View('testcert');});
+Route::get('/.well-known/acme-challenge/3r5rRy1MaHpfowDb6vy0Xa9w90EoMKVLf2n8dPqCElg', function(){ return View('testcert');});
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
